@@ -1,6 +1,7 @@
 const App = {
     start: () => {
         console.log('hello world');
+        console.log("Making a new change")
     }
 }
 
